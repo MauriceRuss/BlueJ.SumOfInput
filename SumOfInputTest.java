@@ -8,8 +8,8 @@ import org.junit.Test;
 /**
  * The test class SumOfInputTest.
  *
- * @author  (your name)
- * @version (a version number or a date)
+ * @author  (Maurice Russ)
+ * @version (Version1)
  */
 public class SumOfInputTest
 {
